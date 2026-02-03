@@ -1,4 +1,4 @@
-module github.com/Ablazzing/hw01_hello_otus
+module github.com/Ablazzing/golang_otus_hw/hw01_hello_otus
 
 go 1.23
 
